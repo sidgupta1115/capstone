@@ -5,7 +5,6 @@
 
 Since the 2016 election "fake news" has spread through our public discourse and public trust in the media has dramatically declined. I've been an avid follower of the news since the 2016 campaign and I've been pretty sensitive to how the publications I subscribe to inform my opinion. I wanted to see how sensitive machine learning algorithms could be to detectivng biases in news.
 
-See more: https://docs.google.com/presentation/d/1b4ykKEwQ9kdYyBhNIDnEdiScvyagiGzVclTBqU48e9k/edit#slide=id.gc6f980f91_0_0
 
 
 ## Problem Question
@@ -41,3 +40,6 @@ I will be working with two datasets one from kaggle and from George McIntire ope
 - **title**: title of article
 - **text**: : text of article
 - **label**: "REAL" or "FAKE"
+
+See a slide deck with my findings:
+https://docs.google.com/presentation/d/1b4ykKEwQ9kdYyBhNIDnEdiScvyagiGzVclTBqU48e9k/edit#slide=id.gc6f980f91_0_0
